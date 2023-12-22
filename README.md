@@ -25,28 +25,70 @@ Install the OS: <br/>
 <img src="https://imgur.com/PFKqdz8.jpg" height="80%" width="80%" alt="install the OS onto the Pi"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Edit the Settings:  <br/>
+<img src="https://imgur.com/DFMQGL4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enable SSH: <br/>
+<img src="https://imgur.com/gDSJe2g.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Save Settings and Ensure OS Write is Successful:  <br/>
+<img src="https://imgur.com/Ho6pYSE.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+SSH into Raspberry Pi:  <br/>
+<img src="https://imgur.com/epm8v2Y.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Update the Raspberry Pi using the Terminal:  <br/>
+ <code> sudo apt update && sudo apt upgrade  </code>
 <br />
+ <br />
+Install PiVPN using the Terminal:  <br/>
+ <code> curl -L https://install.pivpn.io | bash  </code>
+<br />
+ <br />
+This will start the PiVPN installation wizard:  <br/>
+<img src="https://i.imgur.com/x1uPM1h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+ <br />
+This will start the PiVPN installation wizard:  <br/>
+<img src="https://i.imgur.com/x1uPM1h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Set a Static IP on the PiVPN Server:  <br/>
+<img src="https://i.imgur.com/l6dl61Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Edit the Settings:  <br/>
+<img src="https://imgur.com/DFMQGL4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+ <br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
 <br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+ Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+ Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+ Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+ Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
 </p>
 
 <!--
