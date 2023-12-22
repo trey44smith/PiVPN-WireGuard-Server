@@ -61,22 +61,58 @@ Set a Static IP on the PiVPN Server:  <br/>
 <img src="https://i.imgur.com/l6dl61Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Edit the Settings:  <br/>
-<img src="https://imgur.com/DFMQGL4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Confirm the Settings:  <br/>
+<img src="https://i.imgur.com/glVpGuQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Choose the Local User:  <br/>
+<img src="https://i.imgur.com/P0ReoiT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Choose WireGuard as the VPN software:  <br/>
+<img src="https://i.imgur.com/cMhiYLL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
+ Select and Confirm the WireGuard Port Number:  <br/>
+<img src="https://i.imgur.com/nCJRZuz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <img src="https://i.imgur.com/AmWdxCI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+ Select CloudFlare for DNS Resolution:  <br/>
+<img src="https://i.imgur.com/0TYbkAs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <br />
+ Enable Security Patches and Reboot:  <br/>
+<img src="https://i.imgur.com/d7k376u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <img src="https://i.imgur.com/Cy61Jke.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <img src="https://i.imgur.com/VqUVSGA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <img src="https://i.imgur.com/duFKVWt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <br />
  Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
-<br />
+ <br />
+ Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <br />
+ Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <br />
+ Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <br />
+ Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <br />
  Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
