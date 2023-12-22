@@ -22,7 +22,7 @@
 
 <p align="center">
 Install the OS: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="install the OS onto the Pi"/>
+<img src="[Imgur](https://imgur.com/PFKqdz8)" height="80%" width="80%" alt="install the OS onto the Pi"/>
 <br />
 <br />
 Select the disk:  <br/>
