@@ -93,36 +93,37 @@ Choose WireGuard as the VPN software:  <br/>
  <img src="https://i.imgur.com/duFKVWt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
- Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Add users:  <br/>
+ <code> pivpn -a</code>
+ <br />
+ <img src="https://i.imgur.com/LgG9QFy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
- Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Enable Port Forwarding in the Firewall:  <br/>
+<img src="https://i.imgur.com/UJAZ1Tk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
- Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Download the WireGuard App and Connect Mobile Devices via QR Code:  <br/>
+<code> pivpn -qr</code>
+ <br />
+ <img src="https://i.imgur.com/xdVsqde.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
- Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Connect Your Laptop using FileZilla to connect to the Raspberry Pi and Download the config file:  <br/>
+<img src="https://i.imgur.com/4AUtjNs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
- Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Click the Import Tunnel(s) from File Button in the WireGuard App:  <br/>
+<img src="https://i.imgur.com/d8ZLvDs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
- Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Tunnel is Created:  <br/>
+<img src="https://i.imgur.com/SK30Yx9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
- Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
 <br />
- Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Backup the PiVPN Server:  <br/>
+<code> pivpn -bk </code>
  <br />
 <br />
 </p>
