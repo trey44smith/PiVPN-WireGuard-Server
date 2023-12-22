@@ -6,6 +6,9 @@
 <b>Installing my own personal Raspberry Pi-based VPN into my network using PiVPN and WireGuard in order to access my local servers and files when away form home. </b>
 <br />
 
+<h2>Architecture</h2>
+<img src="https://i.imgur.com/kkp5lpc.png" height="80%" width="80%" alt="install the OS onto the Pi"/>
+<br />
 
 <h2>Utilities Used</h2>
 
