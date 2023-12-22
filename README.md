@@ -1,20 +1,22 @@
-<h1>PiVPN WireGuard Server using a Raspberry Pi</h1>
+<h1>Raspberry Pi VPN with WireGuard</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-
+<b>Installing my own personal Raspberry Pi-based VPN into my network using PiVPN and WireGuard in order to access my local servers and files when away form home. </b>
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Raspberry Pi 4</b> 
+- <b>Port Forwarding</b> 
+- <b>SSH</b>
+- <b>VPN</b>
 
-<h2>Environments Used </h2>
+<h2>Environments Used</h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Raspberry Pi OS Lite (32-bit)</b>
 
 <h2>Program walk-through:</h2>
 
