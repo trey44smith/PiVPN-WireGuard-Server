@@ -1,6 +1,6 @@
 <h1>Raspberry Pi VPN with WireGuard</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://youtube.com/shorts/Nn0q-shzJ7I)
 
 <h2>Description</h2>
 <b>Installing my own personal Raspberry Pi-based VPN into my network using PiVPN and WireGuard in order to access my local servers and files when away form home. </b>
